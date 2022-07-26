@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+  // https://www.youtube.com/watch?v=drCYz5WBi-k&t=343s&ab_channel=IgorRemas
   constructor() {}
 
 }
